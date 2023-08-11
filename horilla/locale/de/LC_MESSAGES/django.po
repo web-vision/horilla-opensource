@@ -1676,6 +1676,9 @@ msgid "Attendance"
 msgstr "Anwesenheiten"
 
 msgid "Attendance Request"
+msgstr "Anwesenheitsanfrage"
+
+msgid "Attendance Requests"
 msgstr "Anwesenheitsanfragen"
 
 #: .\attendance\templates\attendance\attendance\attendance_filters.html:58
@@ -5730,28 +5733,19 @@ msgstr "Der Lohnkopf für die if-Bedingung"
 
 #: .\payroll\models\models.py:768 .\payroll\models\models.py:1046
 msgid "Apply for those, if the pay-head conditions satisfy"
-msgstr ""
-"bewerben für jene, wenn die Vergütungsbestandteilsvoraussetzungen erfüllt "
-"sind"
+msgstr "bewerben für jene, wenn die Vergütungsbestandteilsvoraussetzungen erfüllt sind"
 
 #: .\payroll\models\models.py:771 .\payroll\models\models.py:1049
 msgid "The amount of the pay-head"
 msgstr "Die Höhe der Vergütungskomponente"
 
 #: .\payroll\models\models.py:828
-msgid ""
-"If condition based, all fields (field, value, condition) must be filled."
-msgstr ""
-"Bei einer Bedingung müssen alle Felder (Feld, Wert, Bedingung) ausgefüllt "
-"werden."
+msgid "If condition based, all fields (field, value, condition) must be filled."
+msgstr "Bei einer Bedingung müssen alle Felder (Feld, Wert, Bedingung) ausgefüllt werden."
 
 #: .\payroll\models\models.py:835
-msgid ""
-"If based on is attendance,                         then per attendance fixed "
-"amount must be filled."
-msgstr ""
-"Wenn es auf der Anwesenheit basiert dann muss pro Anwesenheit ein fester "
-"Betrag ausgefüllt werden."
+msgid "If based on is attendance, then per attendance fixed amount must be filled."
+msgstr "Wenn es auf der Anwesenheit basiert dann muss pro Anwesenheit ein fester Betrag ausgefüllt werden."
 
 #: .\payroll\models\models.py:841
 msgid "If based on is shift, then shift must be filled."
@@ -5781,12 +5775,8 @@ msgid "Title of the deduction"
 msgstr "Titel des Abzugs"
 
 #: .\payroll\models\models.py:896
-msgid ""
-"The one-time deduction in which the deduction will apply to the "
-"payslips             if the date between the payslip period"
-msgstr ""
-"Der einmalige Abzug, bei dem der Abzug auf die Gehaltsabrechnungen "
-"angewendet wird, wenn das Datum zwischen der Gehaltsabrechnungsperiode"
+msgid "The one-time deduction in which the deduction will apply to the payslips if the date between the payslip period"
+msgstr "Der einmalige Abzug, bei dem der Abzug auf die Gehaltsabrechnungen angewendet wird, wenn das Datum zwischen der Gehaltsabrechnungsperiode"
 
 #: .\payroll\models\models.py:903
 msgid "Target deduction to all active employees in the company"
@@ -7736,7 +7726,7 @@ msgstr "Meine Abwesenheiten"
 
 #: .\templates\sidebar.html:220
 msgid "Assigned Leaves"
-msgstr "Zugewiesene Verlassen"
+msgstr "Zugewiesene Abwesenheiten"
 
 #: .\templates\sidebar.html:246
 msgid "PMS"
