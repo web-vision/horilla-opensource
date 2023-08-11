@@ -2439,6 +2439,11 @@ msgstr "Wähle verschiedene Schichten"
 #: .\base\templates\base\rotating_shift\rotating_shift.html:10
 #: .\base\templates\base\rotating_work_type\filters.html:28
 #: .\templates\settings.html:62
+#: .\base\templates\base\rotating_shift\filters.html:9
+#: .\base\templates\base\rotating_shift\filters.html:28
+#: .\base\templates\base\rotating_shift\rotating_shift.html:10
+#: .\base\templates\base\rotating_work_type\filters.html:28
+#: .\templates\settings.html:62
 msgid "Rotating Shift"
 msgstr "Rotierende Schicht"
 
@@ -2653,18 +2658,6 @@ msgstr "Job Rolle"
 msgid "Are you sure you want to delete this job role?"
 msgstr "Sind Sie sicher, dass Sie diese Job Rolle löschen möchten?"
 
-<<<<<<< HEAD
-
-#: .\base\templates\base\rotating_shift\filters.html:9
-#: .\base\templates\base\rotating_shift\filters.html:28
-#: .\base\templates\base\rotating_shift\rotating_shift.html:10
-#: .\base\templates\base\rotating_work_type\filters.html:28
-#: .\templates\settings.html:62
-msgid "Rotating Shift"
-msgstr "Wechselschicht"
-
-=======
->>>>>>> cdf948e ([TASK] Resovled duplicates in language file)
 #: .\base\templates\base\rotating_shift\filters.html:18
 #: .\base\templates\base\rotating_shift\rotating_shift_assign_view.html:24
 #: .\base\templates\base\rotating_work_type\filters.html:18
